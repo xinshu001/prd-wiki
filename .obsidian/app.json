@@ -1,0 +1,9 @@
+{
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "current",
+  "defaultViewMode": "preview",
+  "vimMode": false,
+  "promptDelete": false
+}
