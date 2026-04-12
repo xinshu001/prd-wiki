@@ -11,10 +11,14 @@
             "id": "left",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "log"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "log 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "log 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "log 的大纲"
             }
           }
         ]
@@ -179,13 +186,14 @@
   },
   "active": "left",
   "lastOpenFiles": [
-    "决策-公告内容脱敏方式.md",
+    "index.md",
     "决策-UI四态规范.md",
     "决策-字段来源优先级.md",
+    "决策-公告内容脱敏方式.md",
+    "概念-脱敏规则.md",
     "未命名 2.base",
     "未命名 3.base",
     "未命名 1.base",
-    "未命名.base",
-    "index.md"
+    "未命名.base"
   ]
 }
